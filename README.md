@@ -11,11 +11,12 @@
 
 ---
 
-##How to View
--Open .wdb files in vivado to see the simulations and waveforms of UART.
--Open .v files for the code to run it.
--pdf files are the block designs, synthesis results and schematics which are the results of the simulations 
-.
+## How to View
+- Open .wdb files in vivado to see the simulations and waveforms of UART.
+- Open .v files for the code to run it.
+- Pdf files are the block designs, synthesis results and schematics which are the results of the simulations.
+
+---
 
 ## This project demonstrates:
 - Digital design skills in Verilog
