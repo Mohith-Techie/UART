@@ -15,6 +15,6 @@
 - Digital design skills in Verilog
 - Understanding of serial communication protocols
 - Experience with FPGA simulation and testbench creation
-- Ability to document and share hardware projects on GitHub
+
 
 
